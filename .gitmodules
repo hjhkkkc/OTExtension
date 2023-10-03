@@ -1,0 +1,3 @@
+[submodule "extern/ENCRYPTO_utils"]
+	path = extern/ENCRYPTO_utils
+	url = https://github.com/hjhkkkc/ENCRYPTO_utils.git
